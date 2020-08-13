@@ -34,7 +34,7 @@ img {
 
 img.profile-pic {
 	height: 30%;
-	width: 30%;
+	width: 50%;
 	object-fit: cover;
 	border-radius: 0%;
 }
