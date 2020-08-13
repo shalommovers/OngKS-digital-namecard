@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N:Ong;KS;;;
+FN: Ong  KS 
+ORG:Shalom Movers;
+TITLE:Division Sales Manager
+EMAIL;type=INTERNET;type=WORK;type=pref:admin@shalom.com.sg
+TEL;type=WORK;type=VOICE:+65 9233 0874
+item1.ADR;type=WORK;type=pref:;;10 Kaki Bukit Road 1, 01-25;;;Singapore;416175
+item1.X-ABADR:sg
+item2.URL;type=pref:shalom.com.sg
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
